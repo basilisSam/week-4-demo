@@ -15,7 +15,7 @@ function App() {
 
         <div className="content">
           <p className="eyebrow">WEEK 04 <span>•</span> DEPLOYMENT</p>
-          <h1 id="page-title">DevRready<br /><span>Deployment demo</span></h1>
+          <h1 id="page-title"> First DevRready<br /><span>Deployment demo</span></h1>
           <p className="description">
             A small step from local code to a page that’s ready to share.
           </p>
